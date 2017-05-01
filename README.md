@@ -1,7 +1,7 @@
 # SE
-#Scottish Digital First Service Standard
+# Scottish Digital First Service Standard
 
-##1 - User centred
+## 1 - User centred
 
 `Understand user needs. Research to develop a deep knowledge of who the service users are and what that means for the design of the service.`
 
@@ -20,7 +20,7 @@
 
 
 
-##2 - Usable and accessible
+## 2 - Usable and accessible
 `Create a service that is usable, accessible and intuitive enough that users succeed first time.`
 
 
@@ -30,19 +30,19 @@
 * We watch usability testing videos, from online unmoderated testing , as a team and review against usability and accessibility
 * We watch usability testing videos, from 1 to 1 testing,  as a team and review against usability and accessibility
 
-##3 - Channel shift
+## 3 - Channel shift
 `Identify and, wherever possible, remove impediments that prevent users from using the digital service, clearly establishing it as the primary channel. Plan to provide appropriate assisted digital support if necessary.`
 
 * We are designing services where Digital First is always considered for the context of that service...
 
-##4 - Consistent user experience
+## 4 - Consistent user experience
 `Build a service consistent with the user experience of the rest of mygov.scot including using the design patterns and style guide.`
 
 * We are re-using common design patterns as they develop
 * We are adhering to common style, tone and coding guides
 * ...
 
-##5 - Continuous feedback
+## 5 - Continuous feedback
 `Put a plan in place for ongoing user research and usability testing to continuously seek feedback and input from users to improve the service.`
 
 * <u>We probably need to think harder about this one than we think. We are probably a bit light.</u>
