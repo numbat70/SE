@@ -47,7 +47,7 @@
 
 * <u>We probably need to think harder about this one than we think. We are probably a bit light.</u>
 
-##6 - Data driven
+## 6 - Data driven
 `Use tools for analysis that collect performance data. Use this data to analyse the success of the service and to translate this into features and tasks for the next phase of development.`
 
 * Analytics
@@ -55,12 +55,12 @@
 * Dashboard
 * Customer Research stats
 
-##7 - Cross-functional team
+## 7 - Cross-functional team
 `Put in place a sustainable multidisciplinary team that can design, build and operate the service, led by a suitably skilled senior manager with decision-making responsibility.`
 
 * Yup. Discuss
 
-##8 - Sustainability
+## 8 - Sustainability
 `Build a service that can be iterated and improved on a frequent basis and make sure that you have the capability, resources and technical flexibility to do so.`
 
 * **Nope**
@@ -68,12 +68,12 @@
 * Not enough technical flexibility
 * Capability is fine but stretched
 
-##9 - Continuous improvement
+## 9 - Continuous improvement
 `Build the service incrementally, releasing early and often, using the iterative and user-centred methods set out in the GDS service manual.`
 
 * Sometimes when we are not getting kicked around
 
-##10 - Business continuity
+## 10 - Business continuity
 `Define, document and regularly test a plan to handle disasters and other incidents that may cause the digital service to be taken temporarily offline.`
 
 * **Weak**
@@ -86,43 +86,43 @@
 
 * **We are actively locked out of this**
 
-##12 - Information governance
+## 12 - Information governance
 
 `Evaluate what user data and information the digital service will be providing or storing, and address the security level, legal responsibilities, privacy issues and risks associated with the service (consulting with experts where appropriate).`
 
 * ?
 
-##13 - Open data
+## 13 - Open data
 `Make all non-personal, non-commercially sensitive data from the service available for re-use by others under an appropriate licence.`
 
 * ?
 
-##14 - Ecosystem
+## 14 - Ecosystem
 `Identify how your service aligns with Scotland’s digital ecosystem.`
 
 * ?
 
-##15 - Open source
+## 15 - Open source
 `Make all new source code open and reusable, and publish it under appropriate licences (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).`
 
 * ? 
 
-##16 - Open standards
+## 16 - Open standards
 `Use open standards and common government platforms where available.`
 
 * ?
 
-##17 - Green ICT
+## 17 - Green ICT
 `Deliver a digital service whose impact on the environment, over its whole lifecycle, is understood. Plan to reduce the environmental impact of the service over time.`
 
 * ?
 
-##18 - Data hosting and data centres
+## 18 - Data hosting and data centres
 `Adopt cloud computing or virtualisation as the preferred approaches to the delivery of data hosting for the service.`
 
 * This is managed at a platform level. Reference this. 
 
-##19 - Performance management
+## 19 - Performance management
 `Identify performance indicators for the service, including the 4 mandatory key performance indicators (KPIs) defined in the GDS service manual. Establish a benchmark for each metric and make a plan to enable improvements.`
 
 * Not yet measuring 1: Cost per transaction 
@@ -130,7 +130,7 @@
 * We are partially measuring completion rate (KPI 3)
 * We are currently measuring digital take-up (KPI 4)
 
-##20 - Transparent
+## 20 - Transparent
 `Publish performance data on the Digital First Performance Platform.`
 
 * We are the first team to publish our performance figures via a public online dashboard: 
@@ -139,12 +139,12 @@
 
 * We constantly communicate our services and run awareness sessions for colleagues and partners...
 
-##21 - Operational acceptance
+## 21 - Operational acceptance
 `Regularly test the end-to-end service in an environment identical to that of the live version, including on all common browsers and devices, and using dummy accounts and a representative sample of users.`
 
 * **Nope**
 
-##22 - Sponsor acceptance
+## 22 - Sponsor acceptance
 `Test the service from beginning to end with the minister responsible for it.`
 
 * Talk to Siobhan
