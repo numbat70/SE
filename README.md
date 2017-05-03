@@ -71,7 +71,8 @@
 ## 9 - Continuous improvement
 `Build the service incrementally, releasing early and often, using the iterative and user-centred methods set out in the GDS service manual.`
 
-* Sometimes when we are not getting kicked around
+* Yes
+* Limited by resources
 
 ## 10 - Business continuity
 `Define, document and regularly test a plan to handle disasters and other incidents that may cause the digital service to be taken temporarily offline.`
@@ -84,7 +85,7 @@
 ## 11 - Technology appraisal
 `Evaluate what technology, tools and systems will be used to build, host, operate and measure the service, and how to procure them.`
 
-* **We are actively locked out of this**
+* **We are not actively included in this yet**
 
 ## 12 - Information governance
 
